@@ -2,7 +2,6 @@
 
 AttendWise is a robust and secure backend service designed for educational institutions to automate and manage attendance tracking. Built using Spring Boot and REST APIs, this system supports QR code-based attendance marking, role-based access control (RBAC), dynamic report generation in PDF format, email notifications, and much more.
 
-See the execution in the LinkedIn post: https://www.linkedin.com/in/rushi-bhatti
 
 ---
 
